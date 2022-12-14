@@ -1,0 +1,83 @@
+ nav a{
+     color: #000;
+ }
+ nav .active{
+     color: red;
+ }
+  #Home-area{
+      background-image: url(images/18.jpg);
+      background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+  }
+  #Home-area .dark-overlay{
+    background-color: rgba(0,0,0,0.7);
+    color: #fff;
+    height: 330px;
+  }
+  #Home-area h4{
+      padding-top: 20px;
+  }
+.form-group{
+    padding-top: 20px;
+}
+#Home-area .col-4{
+     padding-top: 200px;
+  }
+#Home-area .card{
+    border-left: 3px solid red;
+} 
+#About{
+  padding-top: 100px;
+}
+.col-md-4{
+  padding-top: 150px;
+}
+ #Room{
+   background-color: #f4f4f4;
+   margin-top: 100px;
+ }
+ #Blog{
+   background-image: url(images/18.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   min-height: 500px;
+ }
+ #Blog .card-columns{
+  padding-top: 60px;
+ }
+ #Contact .row{
+   margin-left: 100px;
+ }
+ #Contact form{
+    box-shadow: 2px orange;
+ }
+ #Contact .btn{
+   border-radius:20px;
+   width: 13%;
+   margin-left: 110px;
+   margin-top: 30px;
+   background-color: #000;
+   color: #fff;
+ }
+ #footer {
+     background-color: #1C2833 ;
+     margin-top: 70px;
+     color: #fff;
+     border-bottom: 4px solid red;
+     height: 300px;
+ }
+ #footer h4{
+   border-bottom:3px solid red;
+   padding-top: 30px;
+ }
+ #footer a{
+   text-decoration: none;
+   color: #fff;
+ }
+ #footer a:hover{
+  color: red;
+ }
+ footer{
+   border-bottom: 3px solid red;
+ }
